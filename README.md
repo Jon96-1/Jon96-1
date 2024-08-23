@@ -23,7 +23,7 @@ mensual y así hice que la zona se mantuviera en control. Di uno de los mejores 
 ingeniería, lo que dio como resultado que ampliaran sus buenas prácticas al realizar la evaluación
 y reparación de los ATM y obtuve el reconocimiento de mi supervisor y gerente los cuales me
 otorgaron otra zona para coordinar y mejorar las métricas. 
-Me adapte de manera pronta a las pruebas eléctricas y de comunicación por lo cual
+- Me adapte de manera pronta a las pruebas eléctricas y de comunicación por lo cual
 mejore el tiempo de revisión el cual se realizaba de 30 min por platina y reduje a 15 min, y realice
 una guía escrita a mis compañeros de equipo para mejorar sus tiempos. Me otorgaron a mi
 equipo de instalaciones en campo en donde mejore la calidad de instalaciones de CCTV de casa
