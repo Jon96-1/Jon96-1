@@ -1,4 +1,4 @@
-# Hello, I´m Jonathan :smile: 
+# Hola Soy Jonathan :smile: 
 
 *Escuela Superior de Ingeniería Mecánica y Eléctrica (IPN)*
 
