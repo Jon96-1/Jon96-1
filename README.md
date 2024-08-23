@@ -1,15 +1,13 @@
 # Hola Soy Jonathan :smile: 
 
-*Escuela Superior de Ingeniería Mecánica y Eléctrica (IPN)*
-
-*Ing. en Comunicaciones y electronica*
+![perfil1](https://scontent.fmex5-1.fna.fbcdn.net/v/t39.30808-6/456870666_1614236165808924_3286175629217152591_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeGUkirFG2xVM33VkymM5ZSvAx1aGtI3HWQDHVoa0jcdZG7cMYS8PyKpBIuMhgno5khVFIovfxgdi_86HhCCzhjD&_nc_ohc=snADz7aW3pEQ7kNvgGylqw9&_nc_ht=scontent.fmex5-1.fna&oh=00_AYAqbuNstjcw9PGd0_m8Reu6kNc7n1MtZMKoSGAEcmrSgg&oe=66CE26B9)
 
 > :thumbsup: [Linkedin](www.linkedin.com/in/jonathan-dávila-18b6ab204)
 >
 > :envelope: jonathandavilac96@gmail.com
 
-### ~ PERFIL PROFESIONAL ~
-- Ingeniero en comunicaciones y electrónica con experiencia laboral en instalaciones eléctricas de
+
+Soy Ingeniero en comunicaciones y electrónica con experiencia laboral en instalaciones eléctricas de
 baja - media tensión, CA/CD y redes de comunicación como CCTV realizando la configuración de
 DVR, NVR y redes de computadora. Como encargado de área tecnológica participe en proyectos
 enfocados en infraestructura tecnológica, coordinación y gestión de recursos y medios. Como
